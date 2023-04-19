@@ -1,11 +1,10 @@
 StartTxT = """
-Hello {mention}
+<i>Hello {mention} Machaa..
 
-I'm an advanced filter bot with many capabilities!
+എന്നെ ഫിലിം ഫാക്ടറി ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ..
 
-There is no practical limits for my filtering capacity :)
-
-See help button for commands and more details
+I can only be used in Film Factory group..
+Join <a href='https://t.me/mv_requst_group'>Film Factory ᵗᵐ</a>Group</i>
 """
 
 HelpTxT = """
@@ -34,13 +33,13 @@ Add me as admin in your group and start filtering :)
 /id  -  Shows ID information
 /info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
-© @Mo_Tech_YT
+© @Malayalam_vibe
 """
 
 AboutTxT = """
-⭕️ My Name : TroJanz Filter Bot</b>
+⭕️ My Name : Anamika Filter Bot</b>
 ⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @Mo_Tech_YT
+⭕️ Upgrader : <a href='https://t.me/malayalamvibe/'>Malayalam Vibe</a> 
 ⭕️ Language : Python3
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 """
